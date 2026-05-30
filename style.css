@@ -1,0 +1,23 @@
+h1{
+
+    margin-bottom: 5px;
+}
+fieldset{
+
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgb(36, 34, 17);
+}
+.sub{
+font-size: 18px;
+margin-left: 155px;
+    background: darkgreen;
+    color: white;
+    padding: 10px 20px;
+}
+body{
+
+    background-color: rgb(12, 12, 96);
+    color: white;
+}
